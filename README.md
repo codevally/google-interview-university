@@ -11,23 +11,6 @@
     * Python - using built-in types (to keep practicing Python)
 * Write Tests
 
-## About Google
-
-- [ ] For students - [Google Careers: Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
-- [ ] How Search Works:
-    - [ ] [The Evolution of Search (video)](https://www.youtube.com/watch?v=mTBShTwCnD4)
-    - [ ] [How Search Works - the story](https://www.google.com/insidesearch/howsearchworks/thestory/)
-    - [ ] [How Search Works](https://www.google.com/insidesearch/howsearchworks/)
-    - [ ] [How Search Works - Matt Cutts (video)](https://www.youtube.com/watch?v=BNHR6IQJGZs)
-    - [ ] [How Google makes improvements to its search algorithm (video)](https://www.youtube.com/watch?v=J5RZOU6vK4Q)
-- [ ] Series:
-    - [ ] [How Google Search Dealt With Mobile](https://backchannel.com/how-google-search-dealt-with-mobile-33bc09852dc9)
-    - [ ] [Google's Secret Study To Find Out Our Needs](https://backchannel.com/googles-secret-study-to-find-out-our-needs-eba8700263bf)
-    - [ ] [Google Search Will Be Your Next Brain](https://backchannel.com/google-search-will-be-your-next-brain-5207c26e4523)
-    - [ ] [The Deep Mind Of Demis Hassabis](https://backchannel.com/the-deep-mind-of-demis-hassabis-156112890d8a)
-- [ ] [Book: How Google Works](https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582344)
-- [ ] [Made by Google announcement - Oct 2016 (video)](https://www.youtube.com/watch?v=q4y0KOeXViI)
-
 ## Interview Process & General Interview Prep
 
 - [ ] Videos:
@@ -40,7 +23,7 @@
     - [ ] [Get That Job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
         - all the things he mentions that you need to know are listed below
     - [ ] _(very dated)_ [How To Get A Job At Google, Interview Questions, Hiring Process](http://dondodge.typepad.com/the_next_big_thing/2010/09/how-to-get-a-job-at-google-interview-questions-hiring-process.html)
-    - [ ] [Phone Screen Questions](http://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
+    - [x] [Phone Screen Questions](http://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 
 - [ ] Prep Courses:
     - [ ] [Software Engineer Intzerview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):
